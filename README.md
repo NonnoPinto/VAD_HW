@@ -8,4 +8,5 @@ Files (both input and output) are PCM 8-bit audio file, 8000Hz (160bit/20ms).
 
 
 ###work in progress###
+
 Flowchart, description example of inpunt and output.
